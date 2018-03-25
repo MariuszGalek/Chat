@@ -5,7 +5,7 @@
     justify-content: flex-start;
     flex-direction: column;
     border-right: 1px solid #ccc;
-    background-color: blue;
+    background-color: #4d76ff;
     color: white;
 }
 
@@ -13,7 +13,7 @@
     padding: 20px;
     text-align: center;
     font-weight: bold;
-    background: #ccc;
+    background: #b3c4ff;
 }
 
 .UsersList {
@@ -25,5 +25,4 @@
     list-style: none;
     border-bottom: 1px solid #ccc;
     padding: 20px;
-    margin: 0 0 0 20px;
 }
